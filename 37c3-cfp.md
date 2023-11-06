@@ -42,6 +42,7 @@ Erarbeitete Lösungen
  - [3] CFW (CC32xx/ESP32)
 
 [2] Outro
+
 [5] QnA
 
 ## Details zur Einreichung
