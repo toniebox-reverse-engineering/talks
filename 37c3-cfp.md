@@ -1,6 +1,9 @@
 # 37th Chaos Communication Congress - Call for Participation
 
 Here is our edit-space for the application to the 37C3
+https://frab.cccv.de/de/37c3/cfp/events/new
+
+Language: German
 
 ## Titel
 ## Untertitel
