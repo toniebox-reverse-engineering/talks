@@ -38,6 +38,8 @@ Dann gehen wir doch sehr schnell auf die Nachteile ein
 	 - Gerät nach Herstellerwunsch/-pleite nutzlos
 	 - Ökosystem fußt komplett auf einem Privatunternehmen
  - [8] Datenhunger des Herstellers inkl. Auszüge
+	 - Ausspähen/"Nutzungsverhalten" der Kinder
+	 - paranoides Logging
 
 ### Alternativen
 Erarbeitete Lösungen
@@ -46,6 +48,7 @@ Erarbeitete Lösungen
 	 - Eigene Bibliothek für mehr als nur eine Box
 	 - Aus der Not eine Tugend - Home Assistant-Einbindung der Usage-Daten
  - [3] CFW (CC32xx/ESP32)
+ - [2] Hardware-Mods
 
 ### [2] Outro
 ### [5] QnA
