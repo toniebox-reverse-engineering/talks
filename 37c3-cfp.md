@@ -29,17 +29,18 @@ Zunächst planen wir, kurz das Prinzip der Toniebox vorzustellen und zu erkläre
 
 ### Kein Licht ohne Schatten
 Dann gehen wir doch sehr schnell auf die Nachteile ein
- - [3] Abhängig von der Cloud eines Herstellers
-         - Gerät auf Herstellerwunsch nutzlos
-         - Ökosystem fußt komplett auf einem Privatunternehmen
- - [8] Datenhunger des Herstellers inkl. Auszüge
  - [2] künstliche (wirtschaftlich begründete) Einschränkungen
-	 - Nur Originalfiguren
+	 - nur Originalfiguren
 	 - keine eigenen NFC-Tags nutzbar
 	 - teure "bespielbare" Figuren
 	 - Zeitlimit der Inhalte
+ - [5] Abhängig von der Cloud eines Herstellers
+	 - Gerät nach Herstellerwunsch/-pleite nutzlos
+	 - Ökosystem fußt komplett auf einem Privatunternehmen
+ - [8] Datenhunger des Herstellers inkl. Auszüge
 
-### Lösungen
+### Alternativen
+Erarbeitete Lösungen
  - [5] TeddyBench - Offline-Editor der Audiodaten
  - [5] TeddyCloud - Cloud zum selberhosten
 	 - Eigene Bibliothek für mehr als nur eine Box
