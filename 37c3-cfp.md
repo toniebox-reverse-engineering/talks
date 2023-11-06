@@ -1,3 +1,4 @@
+
 # 37th Chaos Communication Congress - Call for Participation
 Editor: https://stackedit.io/app#
 
@@ -20,11 +21,13 @@ Custom-Firmwares, Cloud-Ersatz zum selber-hosten oder Content-Editor um offline 
 *Eine längere Beschreibung Ihres Vorschlags. Hier kann alles rein, was nicht in den Abstract passt. (HTML)*
 Dauer der Kapitel in Minuten in [*d*] angegeben
 
+### Einstieg
 Zunächst planen wir, kurz das Prinzip der Toniebox vorzustellen und zu erklären, warum wir das Gerät nicht per se verteufeln.
  - [3] Grobbeschreibung aus Nutzersicht
  - [3] Abspielprinzip (inkl. Rolle der Cloud)
  - [5] Kleine Einblicke in die Hardware
- 
+
+### Kein Licht ohne Schatten
 Dann gehen wir doch sehr schnell auf die Nachteile ein
  - [3] Abhängig von der Cloud eines Herstellers
  - [8] Datenhunger des Herstellers inkl. Auszüge
@@ -34,6 +37,7 @@ Dann gehen wir doch sehr schnell auf die Nachteile ein
 	 - teure "bespielbare" Figuren
 	 - Zeitlimit der Inhalte
 
+### Alternativen
 Erarbeitete Lösungen
  - [5] TeddyBench - Offline-Editor der Audiodaten
  - [5] TeddyCloud - Cloud zum selberhosten
@@ -41,9 +45,8 @@ Erarbeitete Lösungen
 	 - Aus der Not eine Tugend - Home Assistant-Einbindung der Usage-Daten
  - [3] CFW (CC32xx/ESP32)
 
-[2] Outro
-
-[5] QnA
+### [2] Outro
+### [5] QnA
 
 ## Details zur Einreichung
 Wird nicht veröffentlicht
