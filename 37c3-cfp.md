@@ -17,7 +17,32 @@ Ein Vortrag über den erfolgreichen Kinder-Audioplayer "Toniebox" mit Content-Ho
 Custom-Firmwares, Cloud-Ersatz zum selber-hosten oder Content-Editor um offline arbeiten zu können.
 
 ## Beschreibung
-Eine längere Beschreibung Ihres Vorschlags. Hier kann alles rein, was nicht in den Abstract passt. (HTML)
+*Eine längere Beschreibung Ihres Vorschlags. Hier kann alles rein, was nicht in den Abstract passt. (HTML)*
+Dauer der Kapitel in Minuten in [*d*] angegeben
+
+Zunächst planen wir, kurz das Prinzip der Toniebox vorzustellen und zu erklären, warum wir das Gerät nicht per se verteufeln.
+ - [3] Grobbeschreibung aus Nutzersicht
+ - [3] Abspielprinzip (inkl. Rolle der Cloud)
+ - [5] Kleine Einblicke in die Hardware
+ 
+Dann gehen wir doch sehr schnell auf die Nachteile ein
+ - [3] Abhängig von der Cloud eines Herstellers
+ - [8] Datenhunger des Herstellers inkl. Auszüge
+ - [2] künstliche (wirtschaftlich begründete) Einschränkungen
+	 - Nur Originalfiguren
+	 - keine eigenen NFC-Tags nutzbar
+	 - teure "bespielbare" Figuren
+	 - Zeitlimit der Inhalte
+
+Erarbeitete Lösungen
+ - [5] TeddyBench - Offline-Editor der Audiodaten
+ - [5] TeddyCloud - Cloud zum selberhosten
+	 - Eigene Bibliothek für mehr als nur eine Box
+	 - Aus der Not eine Tugend - Home Assistant-Einbindung der Usage-Daten
+ - [3] CFW (CC32xx/ESP32)
+
+[2] Outro
+[5] QnA
 
 ## Details zur Einreichung
 Wird nicht veröffentlicht
