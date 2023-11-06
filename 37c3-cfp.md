@@ -37,8 +37,7 @@ Dann gehen wir doch sehr schnell auf die Nachteile ein
 	 - teure "bespielbare" Figuren
 	 - Zeitlimit der Inhalte
 
-### Alternativen
-Erarbeitete Lösungen
+### Lösungen
  - [5] TeddyBench - Offline-Editor der Audiodaten
  - [5] TeddyCloud - Cloud zum selberhosten
 	 - Eigene Bibliothek für mehr als nur eine Box
