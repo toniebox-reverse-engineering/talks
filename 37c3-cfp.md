@@ -25,7 +25,7 @@ Dauer der Kapitel in Minuten in [*d*] angegeben
 Zunächst planen wir, kurz das Prinzip der Toniebox vorzustellen und zu erklären, warum wir das Gerät nicht per se verteufeln.
  - [3] Grobbeschreibung aus Nutzersicht
  - [3] Abspielprinzip (inkl. Rolle der Cloud)
- - [5] Kleine Einblicke in die Hardware
+ - [2] Kleine Einblicke in die Hardware
 
 ### Kein Licht ohne Schatten
 Dann gehen wir doch sehr schnell auf die Nachteile ein
