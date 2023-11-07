@@ -52,7 +52,7 @@ Erarbeitete Lösungen
  - [5] TeddyBench - Offline-Editor der Audiodaten
  - [5] TeddyCloud - Cloud zum selberhosten
 	 - Eigene Bibliothek für mehr als nur eine Box
-	 - Aus der Not eine Tugend - Home Assistant-Einbindung der Usage-Daten
+	 - MQTT/Home Assistant-Einbindung der Usage-Daten
  - [3] Custom Firmware (CC3200/ESP32)
  - [2] Hardware-Mods
 	- Bluetooth Audio
