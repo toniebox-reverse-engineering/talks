@@ -15,19 +15,25 @@ Eine Musikbox für Kinder, Maker und Hacker
 *kurzer Absatz, der Ihren Vorschlag prägnant beschreibt. (HTML)*
 
 Ein Vortrag über den erfolgreichen Kinder-Audioplayer "Toniebox" mit Content-Hosting in der Cloud, der nicht nur Einblicke in die (un-) heimliche Datensammlungspraxis bietet, sondern auch gleich passende Lösungen dazu.
-Custom-Firmwares, Cloud-Ersatz zum selber-hosten oder Content-Editor um offline arbeiten zu können.
+Custom-Firmware, Selfhosted Cloud-Ersatz und Tools zum Erzeugen von Inhalten ohne Herstellercloud.
 
 ## Beschreibung
 *Eine längere Beschreibung Ihres Vorschlags. Hier kann alles rein, was nicht in den Abstract passt. (HTML)*
 Dauer der Kapitel in Minuten in [*d*] angegeben
 
-### Einstieg
+Gesamtzeit 55min
+
+### [3] Einleitung
+ - [1] Willkommen
+ - [2] Wer sind wir?
+
+### [10] Was ist die Toniebox?
 Zunächst planen wir, kurz das Prinzip der Toniebox vorzustellen und zu erklären, warum wir das Gerät nicht per se verteufeln.
  - [3] Grobbeschreibung aus Nutzersicht
  - [3] Abspielprinzip (inkl. Rolle der Cloud)
- - [2] Kleine Einblicke in die Hardware
+ - [4] Kleine Einblicke in die Hardware (Varianten: CC3200 / CC3235 / ESP32)
 
-### Kein Licht ohne Schatten
+### [15] Kein Licht ohne Schatten
 Dann gehen wir doch sehr schnell auf die Nachteile ein
  - [2] künstliche (wirtschaftlich begründete) Einschränkungen
 	 - nur Originalfiguren
@@ -41,17 +47,19 @@ Dann gehen wir doch sehr schnell auf die Nachteile ein
 	 - Ausspähen/"Nutzungsverhalten" der Kinder
 	 - paranoides Logging
 
-### Alternativen
+### [15] Alternativen
 Erarbeitete Lösungen
  - [5] TeddyBench - Offline-Editor der Audiodaten
  - [5] TeddyCloud - Cloud zum selberhosten
 	 - Eigene Bibliothek für mehr als nur eine Box
 	 - Aus der Not eine Tugend - Home Assistant-Einbindung der Usage-Daten
- - [3] CFW (CC32xx/ESP32)
+ - [3] Custom Firmware (CC3200/ESP32)
  - [2] Hardware-Mods
+	- Bluetooth Audio
+   	- Barrierefreiheit  
 
 ### [2] Outro
-### [5] QnA
+### [10] QnA
 
 ## Details zur Einreichung
 Wird nicht veröffentlicht
