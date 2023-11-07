@@ -23,9 +23,8 @@ Dauer der Kapitel in Minuten in [*d*] angegeben
 
 Gesamtzeit 55min
 
-### [3] Einleitung
- - [1] Willkommen
- - [2] Wer sind wir?
+### [2] Einleitung
+ - [2] Willkommen
 
 ### [10] Was ist die Toniebox?
 Zunächst planen wir, kurz das Prinzip der Toniebox vorzustellen und zu erklären, warum wir das Gerät nicht per se verteufeln.
@@ -59,6 +58,8 @@ Erarbeitete Lösungen
    	- Barrierefreiheit  
 
 ### [2] Outro
+ - [2] Wer sind wir?
+
 ### [10] QnA
 
 ## Details zur Einreichung
