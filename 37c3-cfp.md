@@ -49,13 +49,18 @@ Dann gehen wir doch sehr schnell auf die Nachteile ein
 ### [15] Alternativen
 Erarbeitete Lösungen
  - [5] TeddyBench - Offline-Editor der Audiodaten
+	 - https://github.com/toniebox-reverse-engineering/teddy/releases
  - [5] TeddyCloud - Cloud zum selberhosten
+	 - https://github.com/toniebox-reverse-engineering/teddycloud
 	 - Eigene Bibliothek für mehr als nur eine Box
 	 - MQTT/Home Assistant-Einbindung der Usage-Daten
  - [3] Custom Firmware (CC3200/ESP32)
+	 - https://github.com/toniebox-reverse-engineering/hackiebox_cfw
+	 - https://github.com/toniebox-reverse-engineering/hackiebox_cfw_ng
+	 - https://github.com/toniebox-reverse-engineering/teddybox
  - [2] Hardware-Mods
-	- Bluetooth Audio
-   	- Barrierefreiheit  
+	 - Bluetooth Audio (https://www.g3gg0.de/wordpress/hacks/toniebox-bluetooth-modification/)
+	 - Barrierefreiheit
 
 ### [2] Outro
  - [2] Wer sind wir?
