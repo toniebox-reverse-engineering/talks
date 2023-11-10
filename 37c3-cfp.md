@@ -20,7 +20,7 @@ Custom-Firmware, Selfhosted Cloud-Ersatz und Tools zum Erzeugen von Inhalten ohn
 ## Beschreibung
 *Eine längere Beschreibung Ihres Vorschlags. Hier kann alles rein, was nicht in den Abstract passt. (HTML)*
 
-In unserem Vortrag über die Toniebox konzentrieren wir uns auf das Innenleben und die Funktionsweise dieses beliebten Audiogerätes für Kinder. Wir beginnen mit einer detaillierten Einführung in das Prinzip der Toniebox aus technischer Sicht und geben einen kurzen Überblick über die Hardwarekomponenten, insbesondere die verschiedenen Prozessorvarianten wie CC3200, CC3235 und ESP32.
+In unserem Vortrag über die Toniebox konzentrieren wir uns zunächst auf das Innenleben und die Funktionsweise dieses beliebten Audiogerätes für Kinder. Wir beginnen mit einer detaillierten Einführung in das Prinzip der Toniebox aus technischer Sicht und geben einen kurzen Überblick über die Hardwarekomponenten, insbesondere die verschiedenen Prozessorvarianten wie CC3200, CC3235 und ESP32.
 
 Der Übergang zu den Limitationen des Systems ist fließend: Wir diskutieren die künstlichen Beschränkungen durch den Hersteller, den Zwang zur Verwendung von Originalfiguren, die Inkompatibilität mit NFC-Tags von Drittanbietern und die hohen Kosten für bespielbare Figuren. Besonders kritisch sehen wir die vollständige Abhängigkeit von einer Hersteller-Cloud, die bei einem Ausfall des Anbieters das Gerät obsolet macht. Ein weiterer Fokus liegt auf dem ausgeprägten Datenhunger des Herstellers, der fast schon paranoid das Nutzungsverhalten unserer Kinder aufzeichnet.
 
