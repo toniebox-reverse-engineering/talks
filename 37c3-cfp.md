@@ -14,7 +14,7 @@ Eine Musikbox für Kinder, Maker und Hacker
 ## Zusammenfassung
 *kurzer Absatz, der Ihren Vorschlag prägnant beschreibt. (HTML)*
 
-Ein Vortrag über den erfolgreichen Kinder-Audioplayer "Toniebox" mit Content-Hosting in der Cloud, der nicht nur Einblicke in die (un-) heimliche Datensammlungspraxis bietet, sondern auch gleich passende Lösungen dazu.
+Ein Vortrag über den erfolgreichen Kinder-Audioplayer "Toniebox" mit kompletter Cloud-Abhängigkeit, der nicht nur Einblicke in die (un-) heimliche Datensammlungspraxis bietet, sondern auch gleich passende, datensparsame Lösungen dazu.
 Custom-Firmware, Selfhosted Cloud-Ersatz und Tools zum Erzeugen von Inhalten ohne Herstellercloud.
 
 ## Beschreibung
