@@ -19,6 +19,14 @@ Custom-Firmware, Selfhosted Cloud-Ersatz und Tools zum Erzeugen von Inhalten ohn
 
 ## Beschreibung
 *Eine längere Beschreibung Ihres Vorschlags. Hier kann alles rein, was nicht in den Abstract passt. (HTML)*
+
+In unserem Vortrag über die Toniebox konzentrieren wir uns auf das Innenleben und die Funktionsweise dieses beliebten Audiogerätes für Kinder. Wir beginnen mit einer detaillierten Einführung in das Prinzip der Toniebox aus technischer Sicht und geben einen kurzen Überblick über die Hardwarekomponenten, insbesondere die verschiedenen Prozessorvarianten wie CC3200, CC3235 und ESP32.
+
+Der Übergang zu den Limitationen des Systems ist fließend: Wir diskutieren die künstlichen Beschränkungen durch den Hersteller, den Zwang zur Verwendung von Originalfiguren, die Inkompatibilität mit NFC-Tags von Drittanbietern und die hohen Kosten für bespielbare Figuren. Besonders kritisch sehen wir die vollständige Abhängigkeit von einer Hersteller-Cloud, die bei einem Ausfall des Anbieters das Gerät obsolet macht. Ein weiterer Fokus liegt auf dem ausgeprägten Datenhunger des Herstellers, der fast schon paranoid das Nutzungsverhalten unserer Kinder aufzeichnet.
+
+Im Kern des Vortrags stellen wir die von uns entwickelten Open-Source-Alternativen vor. Mit der TeddyBench stellen wir einen Offline-Editor vor, mit dem Audiodaten für eigene NFC-Tags erstellt und verwaltet werden können. Die TeddyCloud bietet als selbstgehostete Lösung volle Kontrolle über die eigenen Daten, eine persönliche Audio-Bibliothek und die Möglichkeit, Nutzungsdaten über MQTT in den Home Assistant einzuspeisen, ohne die Funktionalität der Box einzuschränken. Außerdem stellen wir Custom Firmwares für CC3200 und ESP32 vor, die neue Einsatzmöglichkeiten eröffnen, und berichten über unsere Hardware-Modifikationen, die unter anderem Bluetooth-Audio ermöglichen und die Toniebox barrierefreier machen.
+
+
 Dauer der Kapitel in Minuten in [*d*] angegeben
 
 Gesamtzeit 55min
@@ -68,4 +76,10 @@ Erarbeitete Lösungen
 ### [10] QnA
 
 ## Details zur Einreichung
-Wird nicht veröffentlicht
+Quellen
+ - https://github.com/toniebox-reverse-engineering/hackiebox_cfw
+ - https://github.com/toniebox-reverse-engineering/hackiebox_cfw_ng
+ - https://github.com/toniebox-reverse-engineering/teddybox
+ - https://gt-blog.de/
+ - https://www.g3gg0.de/wordpress/hacks/toniebox-bluetooth-modification/
+ 
