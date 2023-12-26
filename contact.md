@@ -13,6 +13,7 @@
 
 # Gambrius
 - Vor Ort: 27.
+- DECT: 
 - Telegram: @gambrius
 - eMail: gambrius@gmail.com
 - Web: https://gt-blog.de
