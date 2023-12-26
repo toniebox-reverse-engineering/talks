@@ -14,6 +14,7 @@
 # Gambrius
 - Vor Ort: 27.
 - Telegram: @gambrius
+- eMail: gambrius@gmail.com
 - Web: https://gt-blog.de
 
 
