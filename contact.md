@@ -26,3 +26,6 @@
 - Web: https://nerdgenieur.me
 
 
+# Team
+[Discource (Forum)](https://forum.revvox.de/)
+[Telegram (Chat)](https://t.me/toniebox_reverse_engineering)
