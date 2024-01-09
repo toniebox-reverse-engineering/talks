@@ -1,3 +1,7 @@
+# Team
+* [Discource (Forum)](https://forum.revvox.de/)
+* [Telegram (Chat)](https://t.me/toniebox_reverse_engineering)
+
 # 0xbadbee
 - Vor Ort: 27. - 28.
 - DECT: 8337
@@ -25,7 +29,3 @@
 - Telegram: @el_golfo
 - Web: https://nerdgenieur.me
 
-
-# Team
-[Discource (Forum)](https://forum.revvox.de/)
-[Telegram (Chat)](https://t.me/toniebox_reverse_engineering)
