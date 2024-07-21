@@ -1,0 +1,19 @@
+{
+	// See https://go.microsoft.com/fwlink/?LinkId=827846 to learn about workspace recommendations.
+	// Extension identifier format: ${publisher}.${name}. Example: vscode.csharp
+
+	// List of extensions which should be recommended for users of this workspace.
+	"recommendations": [
+		"yzhang.markdown-all-in-one",
+		"marp-team.marp-vscode",
+		"tomoyukim.vscode-mermaid-editor",
+		"streetsidesoftware.code-spell-checker",
+        "shd101wyy.markdown-preview-enhanced",
+		"bpruitt-goddard.mermaid-markdown-syntax-highlighting",
+		"huntertran.auto-markdown-toc"
+	],
+	// List of extensions recommended by VS Code that should not be recommended for users of this workspace.
+	"unwantedRecommendations": [
+		
+	]
+}
